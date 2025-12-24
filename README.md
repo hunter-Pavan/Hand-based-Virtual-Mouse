@@ -24,15 +24,10 @@ Ye system beginners ke liye mentor jaise kaam karta hai aur advanced users ke li
 ⚙️ Pin configuration clarity
 
 🛠️ Technologies Used
-
 Python 🐍
-
 AI / Logic Engine
-
 Flowchart Generation Logic
-
 Basic NLP Concepts
-
 Git & GitHub
 
 
@@ -47,17 +42,12 @@ pip install -r requirements.txt
 python main.py
 
 🧪 Example Use Case
-
 User ek Python / Arduino code input karega
-
 System code ko analyze karega
-
 Errors + logic explanation output karega
-
 Flowchart aur viva questions generate honge
 
 🎯 Learning Outcomes
-
 📌 Programming logic clarity
 📌 Debugging skills improvement
 📌 Visual thinking via flowcharts
@@ -65,7 +55,6 @@ Flowchart aur viva questions generate honge
 📌 Real-world AI problem solving approach
 
 🔮 Future Enhancements
-
 🚧 Web-based UI (Flask / React)
 🚧 Support for multiple languages (C, Java, JS)
 🚧 PDF report export
@@ -73,7 +62,6 @@ Flowchart aur viva questions generate honge
 🚧 Offline AI model integration
 
 👑 Why This Project is Unique
-
 ✔️ Sirf code nahi, sochna sikhata hai
 ✔️ Education + AI ka powerful fusion
 ✔️ Beginners aur advanced dono ke liye useful
@@ -81,6 +69,5 @@ Flowchart aur viva questions generate honge
 
 ♠ Credits
 Pavan 👑
-
 Developed with discipline and vision by
-Lord Pavan 👑
+Lord Pavan 
